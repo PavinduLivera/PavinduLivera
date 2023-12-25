@@ -1,7 +1,7 @@
 👋 Hi, I’m Pavindu Livera @PavinduLivera </br>
 📫 You can reach me at pavindulivera123@gmail.com </br>
-💬 Ask me about anything on Social Media @Pavindu Livera </br>
-🔭I am an Undergraduate Student at the University of Colombo School of Computing. 
+🔭I am an Undergraduate Student at the University of Colombo School of Computing. </br>
+💬 Ask me about anything on Social Media @Pavindu Livera 
 <!---👀 I’m interested in JavaScript, React.js, Next.js, React Native and Flutter.
 🌱 I’m currently Learning Web Development and Mobile Application Development.--->
 
